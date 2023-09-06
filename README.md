@@ -2,11 +2,9 @@
 <!-- <h3 align="center">Hello Developers</h3> -->
 
 
-<br>
+<br>	
 
 
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
@@ -18,12 +16,7 @@
 - Passionate Data Analyst
 
 - 📫 How to reach me **anushabera009@gmail.com**
-
-
-
 <br><br>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anusha_bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anusha_bera" height="30" width="40" /></a>
