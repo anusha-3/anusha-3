@@ -15,11 +15,11 @@
 
 - Final year student
 
-- passionate Data Analyst
+- Passionate Data Analyst
 
 - 📫 How to reach me **anushabera009@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iiB47giN7z4n-BKD_l7ViaS5X8WJE-nj/view?usp=sharing)
+
 
 <br><br>
 
